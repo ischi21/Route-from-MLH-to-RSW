@@ -1,0 +1,5 @@
+## My Perfect Route to Class
+
+# This web map depicts what I think is the ideal walk to my classes in Rankin Science West from my bus stop. I wanted the route I chose to be realistic, so I made sure that the crossings and paths were accurate to what I would do in person. The first stop was Stickboy since it was on the same side of the road right before the park. I then planned the route to go through Durham Park the way to Rankin, allowing the user to cross a main road only once. The rest of the path is through greenery, past the dining hall, and goes toward the RSW entrance. I retrieved the basemap from [the previous page we used in class.](https://leaflet-extras.github.io/leaflet-providers/preview/#filter=OpenStreetMap.Mapnik)
+# Project Sources: 
+# (https://parkrxamerica.org/m/5051/durham-park), (https://www.stickboybread.com/)
